@@ -1,0 +1,3 @@
+C:/GitRepos/AdventCalendar/cmake-build-debug/CMakeFiles/AdventCalendar.dir
+C:/GitRepos/AdventCalendar/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/GitRepos/AdventCalendar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
